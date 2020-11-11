@@ -5,6 +5,7 @@ https://techtalk.comodo.com/2020/08/27/comodo-mitre-kill-chain/
 ## Computer Science
 
 #### Attacks
+- [Comodo MITRE Kill Chain](https://techtalk.comodo.com/2020/08/27/comodo-mitre-kill-chain/)
 - [Jamming and Anti-jamming Techniques inWireless Networks: A Survey](https://www.cs.montana.edu/yang/paper/jamming.pdf)
 
 #### Censorship
