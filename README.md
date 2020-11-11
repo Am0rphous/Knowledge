@@ -1,8 +1,12 @@
 # Good Knowledge
+
 Diffrent resources i find interesting.
 https://techtalk.comodo.com/2020/08/27/comodo-mitre-kill-chain/
 
 ## Computer Science
+
+- [BitLocker Guidance by NSA](https://github.com/nsacyber/BitLocker-Guidance) - Configuration guidance for implementing BitLocker.
+- [Hardware and Firmware Security Guidance by NSA](https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance) - uidance for the Spectre, Meltdown, Speculative Store Bypass, Rogue System Register Read, Lazy FP State Restore, Bounds Check Bypass Store, TLBleed, and L1TF/Foreshadow vulnerabilities as well as general hardware and firmware security guidance.
 
 #### Attacks
 - [Comodo MITRE Kill Chain](https://techtalk.comodo.com/2020/08/27/comodo-mitre-kill-chain/)
