@@ -9,6 +9,7 @@ https://techtalk.comodo.com/2020/08/27/comodo-mitre-kill-chain/
 - [Hardware and Firmware Security Guidance by NSA](https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance) - uidance for the Spectre, Meltdown, Speculative Store Bypass, Rogue System Register Read, Lazy FP State Restore, Bounds Check Bypass Store, TLBleed, and L1TF/Foreshadow vulnerabilities as well as general hardware and firmware security guidance.
 
 #### Attacks
+- [Cloudflare's Network-layer DDoS attack trends for Q3 2020](https://blog.cloudflare.com/network-layer-ddos-attack-trends-for-q3-2020/)
 - [Comodo MITRE Kill Chain](https://techtalk.comodo.com/2020/08/27/comodo-mitre-kill-chain/)
 - [Jamming and Anti-jamming Techniques inWireless Networks: A Survey](https://www.cs.montana.edu/yang/paper/jamming.pdf)
 
