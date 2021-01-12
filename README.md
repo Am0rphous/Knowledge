@@ -1,7 +1,8 @@
 # Good Knowledge
 
 Diffrent resources i find interesting.
-https://techtalk.comodo.com/2020/08/27/comodo-mitre-kill-chain/
+
+- [archive.org](https://archive.org)
 
 ## Computer Science
 
