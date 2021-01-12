@@ -20,6 +20,7 @@ Diffrent resources i find interesting.
  - [Exposing and Circumventing China's Censorship of ESNI](https://geneva.cs.umd.edu/posts/china-censors-esni/esni/)
 
  #### Security and System Hardening
+ - [Comodo MITRE Kill Chain](https://techtalk.comodo.com/2020/08/27/comodo-mitre-kill-chain/)
  - [Using Sysmon to EnrichSecurity Onion’s Host-Level Capabilities](https://defensivedepth.files.wordpress.com/2015/03/using-sysmon-to-enrich-security-onions-host-level-capabilities6.pdf)
 
 ## Environment and pollution
