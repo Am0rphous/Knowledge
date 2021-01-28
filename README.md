@@ -14,6 +14,8 @@ Diffrent resources i find interesting.
  - [Cloudflare's Network-layer DDoS attack trends for Q3 2020](https://blog.cloudflare.com/network-layer-ddos-attack-trends-for-q3-2020/)
  - [Comodo MITRE Kill Chain](https://techtalk.comodo.com/2020/08/27/comodo-mitre-kill-chain/)
  - [Jamming and Anti-jamming Techniques inWireless Networks: A Survey](https://www.cs.montana.edu/yang/paper/jamming.pdf)
+ ##### BlackHat
+ - [Top 10 Web Attacks (2002)](https://www.blackhat.com/presentations/bh-asia-02/bh-asia-02-shah.pdf)
 
  #### Censorship
  - [Blocking-resistant communication through domain fronting](https://www.bamsoftware.com/papers/fronting/)
