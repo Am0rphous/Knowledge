@@ -17,10 +17,15 @@ Diffrent resources i find interesting.
  ##### BlackHat
  - [Top 10 Web Attacks (2002)](https://www.blackhat.com/presentations/bh-asia-02/bh-asia-02-shah.pdf)
 
- #### Censorship
+ #### Censorship and surveillance
  - [Blocking-resistant communication through domain fronting](https://www.bamsoftware.com/papers/fronting/)
  - [On the Importance of Encrypted-SNI (ESNI) to Censorship Circumvention](https://www.usenix.org/system/files/foci19-paper_chai_update.pdf)
- - [Exposing and Circumventing China's Censorship of ESNI](https://geneva.cs.umd.edu/posts/china-censors-esni/esni/)
+ - [Exposing and Circumventing China's Censorship of ESNI](https://geneva.cs.umd.edu/posts/china-censors-esni/esni/
+ ##### 2021
+ - 13.02.21 - [Venice is watching tourists' every move](https://edition.cnn.com/travel/article/venice-control-room-tourism/index.html)
+ - 08.01.21 - [WhatsApp Tells Users: Share Your Data With Facebook Or We’ll Delete Your Account](https://www.forbes.com/sites/carlypage/2021/01/08/whatsapp-tells-users-share-your-data-with-facebook-or-well-deactivate-your-account/)
+ ##### 2020
+ - 12.10.20 - [How Samsung phones force Mainland China DNS service upon Hong Kong WiFi users (Part 1)](https://blog.headuck.com/2020/10/12/samsung-phones-force-mainland-china-dns-service-upon-hong-kong-wifi-users/)
 
  #### Security and System Hardening
  - [Comodo MITRE Kill Chain](https://techtalk.comodo.com/2020/08/27/comodo-mitre-kill-chain/)
