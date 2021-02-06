@@ -9,13 +9,19 @@ Diffrent resources i find interesting.
 - [BitLocker Guidance by NSA](https://github.com/nsacyber/BitLocker-Guidance) - Configuration guidance for implementing BitLocker.
 - [Hardware and Firmware Security Guidance by NSA](https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance) - uidance for the Spectre, Meltdown, Speculative Store Bypass, Rogue System Register Read, Lazy FP State Restore, Bounds Check Bypass Store, TLBleed, and L1TF/Foreshadow vulnerabilities as well as general hardware and firmware security guidance.
 
- #### Attacks
+ #### BlackHat
+ 
+ - [An In‑depth Analysis of Linux/Ebury](https://www.welivesecurity.com/2014/02/21/an-in-depth-analysis-of-linuxebury/)
  - [Bypassing-XSS-detection-mechanisms](https://github.com/s0md3v/MyPapers/tree/master/Bypassing-XSS-detection-mechanisms)
  - [Cloudflare's Network-layer DDoS attack trends for Q3 2020](https://blog.cloudflare.com/network-layer-ddos-attack-trends-for-q3-2020/)
  - [Comodo MITRE Kill Chain](https://techtalk.comodo.com/2020/08/27/comodo-mitre-kill-chain/)
  - [Jamming and Anti-jamming Techniques inWireless Networks: A Survey](https://www.cs.montana.edu/yang/paper/jamming.pdf)
- ##### BlackHat
+ - [Kobalos – A complex Linux threat to high performance computing infrastructure](https://www.welivesecurity.com/2021/02/02/kobalos-complex-linux-threat-high-performance-computing-infrastructure/)
+ - [Linux/SSHDoor.A Backdoored SSH daemon that steals passwords](https://www.welivesecurity.com/2013/01/24/linux-sshdoor-a-backdoored-ssh-daemon-that-steals-passwords/)
+ - [The Darj Side of the Forsshe - A landscape of OpenSSH backdoors](https://www.welivesecurity.com/wp-content/uploads/2018/12/ESET-The_Dark_Side_of_the_ForSSHe.pdf)
  - [Top 10 Web Attacks (2002)](https://www.blackhat.com/presentations/bh-asia-02/bh-asia-02-shah.pdf)
+
+
 
  #### Censorship and surveillance
  - [Blocking-resistant communication through domain fronting](https://www.bamsoftware.com/papers/fronting/)
