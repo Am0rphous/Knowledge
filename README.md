@@ -22,7 +22,7 @@ Diffrent resources i find interesting.
  - [Pentest Reports by 7asecurity](https://7asecurity.com/publications)
  - [The Darj Side of the Forsshe - A landscape of OpenSSH backdoors](https://www.welivesecurity.com/wp-content/uploads/2018/12/ESET-The_Dark_Side_of_the_ForSSHe.pdf)
  - [Top 10 Web Attacks (2002)](https://www.blackhat.com/presentations/bh-asia-02/bh-asia-02-shah.pdf)
-
+ - [whoami-priv-Hackinparis2019](https://github.com/decoder-it/whoami-priv-Hackinparis2019/blob/master/whoamiprivParis_Split.pdf)
 
 
  #### Censorship and surveillance
