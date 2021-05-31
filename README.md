@@ -3,6 +3,7 @@
 Diffrent resources i find interesting.
 
 - [archive.org](https://archive.org)
+- [thoughtco.com](https://www.thoughtco.com)
 
 ## Computer Science
 - [BitLocker Guidance by NSA](https://github.com/nsacyber/BitLocker-Guidance) - Configuration guidance for implementing BitLocker.
