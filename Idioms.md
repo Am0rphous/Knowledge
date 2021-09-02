@@ -23,3 +23,5 @@
 ## Norwegian links
 - [ordtak.myiglo.com](https://ordtak.myiglo.com)
 
+Other
+- Remember that everyone puts their pants on the same way in the morning
