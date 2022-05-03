@@ -10,6 +10,7 @@ Diffrent resources i find interesting.
 - [BitLocker Guidance by NSA](https://github.com/nsacyber/BitLocker-Guidance) - Configuration guidance for implementing BitLocker.
 - [collection-document by tom0li](https://github.com/tom0li/collection-document) - Collection of quality safety articles. Awesome articles. 
 - [Hardware and Firmware Security Guidance by NSA](https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance) - uidance for the Spectre, Meltdown, Speculative Store Bypass, Rogue System Register Read, Lazy FP State Restore, Bounds Check Bypass Store, TLBleed, and L1TF/Foreshadow vulnerabilities as well as general hardware and firmware security guidance.
+- [Papers We Love (PWL)](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss. 
 - [technical-whitepapers](https://github.com/trimstray/technical-whitepapers) - Collection of IT whitepapers, presentations, pdfs; hacking, web app security, db, reverse engineering and more; EN/PL.
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
