@@ -33,7 +33,7 @@ Diffrent resources i find interesting.
  #### Censorship and surveillance
  - [Blocking-resistant communication through domain fronting](https://www.bamsoftware.com/papers/fronting/)
  - [On the Importance of Encrypted-SNI (ESNI) to Censorship Circumvention](https://www.usenix.org/system/files/foci19-paper_chai_update.pdf)
- - [Exposing and Circumventing China's Censorship of ESNI](https://geneva.cs.umd.edu/posts/china-censors-esni/esni/
+ - [Exposing and Circumventing China's Censorship of ESNI](https://geneva.cs.umd.edu/posts/china-censors-esni/esni/)
  - 13.02.21 - [Venice is watching tourists' every move](https://edition.cnn.com/travel/article/venice-control-room-tourism/index.html)
  - 08.01.21 - [WhatsApp Tells Users: Share Your Data With Facebook Or We’ll Delete Your Account](https://www.forbes.com/sites/carlypage/2021/01/08/whatsapp-tells-users-share-your-data-with-facebook-or-well-deactivate-your-account/)
  - 12.10.20 - [How Samsung phones force Mainland China DNS service upon Hong Kong WiFi users (Part 1)](https://blog.headuck.com/2020/10/12/samsung-phones-force-mainland-china-dns-service-upon-hong-kong-wifi-users/)
