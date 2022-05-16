@@ -1,4 +1,4 @@
-## World Development
+## World Development & Trends
 
 ### Tech
 - Quantum Computing
