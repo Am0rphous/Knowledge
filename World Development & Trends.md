@@ -15,5 +15,6 @@
   - Helium3, moon
 
 ## Trends
-- Økende inflasjon
+- Økende inflasjon per (15.05.2022)
   - [EU venter inflasjon på 6,8 prosent i 2022 – nedjusterer anslag for økonomisk vekst](https://e24.no/naeringsliv/i/y4BEEg/eu-venter-inflasjon-paa-68-prosent-i-2022-nedjusterer-anslag-for-oekonomisk-vekst)
+  - [Høyeste inflasjon på flere tiår i Frankrike og Italia](https://e24.no/internasjonal-oekonomi/i/KzAy8X/hoeyeste-inflasjon-paa-flere-tiaar-i-frankrike-og-italia)
