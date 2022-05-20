@@ -1,7 +1,6 @@
 # Computer Science
 
 
-## Computer Science
 - [BitLocker Guidance by NSA](https://github.com/nsacyber/BitLocker-Guidance) - Configuration guidance for implementing BitLocker.
 - [collection-document by tom0li](https://github.com/tom0li/collection-document) - Collection of quality safety articles. Awesome articles. 
 - [Hardware and Firmware Security Guidance by NSA](https://github.com/nsacyber/Hardware-and-Firmware-Security-Guidance) - uidance for the Spectre, Meltdown, Speculative Store Bypass, Rogue System Register Read, Lazy FP State Restore, Bounds Check Bypass Store, TLBleed, and L1TF/Foreshadow vulnerabilities as well as general hardware and firmware security guidance.
@@ -9,20 +8,23 @@
 - [technical-whitepapers](https://github.com/trimstray/technical-whitepapers) - Collection of IT whitepapers, presentations, pdfs; hacking, web app security, db, reverse engineering and more; EN/PL.
 - [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 
- #### Use wisely
- - [An In‑depth Analysis of Linux/Ebury](https://www.welivesecurity.com/2014/02/21/an-in-depth-analysis-of-linuxebury/)
- - [Bypassing-XSS-detection-mechanisms](https://github.com/s0md3v/MyPapers/tree/master/Bypassing-XSS-detection-mechanisms)
- - [Cloudflare's Network-layer DDoS attack trends for Q3 2020](https://blog.cloudflare.com/network-layer-ddos-attack-trends-for-q3-2020/)
- - [Comodo MITRE Kill Chain](https://techtalk.comodo.com/2020/08/27/comodo-mitre-kill-chain/)
- - [Jamming and Anti-jamming Techniques inWireless Networks: A Survey](https://www.cs.montana.edu/yang/paper/jamming.pdf)
- - [Kobalos – A complex Linux threat to high performance computing infrastructure](https://www.welivesecurity.com/2021/02/02/kobalos-complex-linux-threat-high-performance-computing-infrastructure/)
- - [Linux/SSHDoor.A Backdoored SSH daemon that steals passwords](https://www.welivesecurity.com/2013/01/24/linux-sshdoor-a-backdoored-ssh-daemon-that-steals-passwords/)
- - [Pentest Reports by 7asecurity](https://7asecurity.com/publications)
- - [Study of Blacklisted Malicious Domains from a Microsoft Windows End-user Perspective: Is It Safe Behind the Wall?](https://ojs.bibsys.no/index.php/NIK/article/download/890/751)
- - [The Darj Side of the Forsshe - A landscape of OpenSSH backdoors](https://www.welivesecurity.com/wp-content/uploads/2018/12/ESET-The_Dark_Side_of_the_ForSSHe.pdf)
- - [Top 10 Web Attacks (2002)](https://www.blackhat.com/presentations/bh-asia-02/bh-asia-02-shah.pdf)
- - [Weak Diffie-Hellman and the Logjam Attack](https://weakdh.org/)
- - [Whoami-priv-Hackinparis2019](https://github.com/decoder-it/whoami-priv-Hackinparis2019/blob/master/whoamiprivParis_Split.pdf)
+### APT
+- [Twisted Panda: Chinese APT espionage operation against Russian’s state-owned defense institutes](https://research.checkpoint.com/2022/twisted-panda-chinese-apt-espionage-operation-against-russians-state-owned-defense-institutes/)
+
+#### Use wisely
+- [An In‑depth Analysis of Linux/Ebury](https://www.welivesecurity.com/2014/02/21/an-in-depth-analysis-of-linuxebury/)
+- [Bypassing-XSS-detection-mechanisms](https://github.com/s0md3v/MyPapers/tree/master/Bypassing-XSS-detection-mechanisms)
+- [Cloudflare's Network-layer DDoS attack trends for Q3 2020](https://blog.cloudflare.com/network-layer-ddos-attack-trends-for-q3-2020/)
+- [Comodo MITRE Kill Chain](https://techtalk.comodo.com/2020/08/27/comodo-mitre-kill-chain/)
+- [Jamming and Anti-jamming Techniques inWireless Networks: A Survey](https://www.cs.montana.edu/yang/paper/jamming.pdf)
+- [Kobalos – A complex Linux threat to high performance computing infrastructure](https://www.welivesecurity.com/2021/02/02/kobalos-complex-linux-threat-high-performance-computing-infrastructure/)
+- [Linux/SSHDoor.A Backdoored SSH daemon that steals passwords](https://www.welivesecurity.com/2013/01/24/linux-sshdoor-a-backdoored-ssh-daemon-that-steals-passwords/)
+- [Pentest Reports by 7asecurity](https://7asecurity.com/publications)
+- [Study of Blacklisted Malicious Domains from a Microsoft Windows End-user Perspective: Is It Safe Behind the Wall?](https://ojs.bibsys.no/index.php/NIK/article/download/890/751)
+- [The Darj Side of the Forsshe - A landscape of OpenSSH backdoors](https://www.welivesecurity.com/wp-content/uploads/2018/12/ESET-The_Dark_Side_of_the_ForSSHe.pdf)
+- [Top 10 Web Attacks (2002)](https://www.blackhat.com/presentations/bh-asia-02/bh-asia-02-shah.pdf)
+- [Weak Diffie-Hellman and the Logjam Attack](https://weakdh.org/)
+- [Whoami-priv-Hackinparis2019](https://github.com/decoder-it/whoami-priv-Hackinparis2019/blob/master/whoamiprivParis_Split.pdf)
 
 
  #### Censorship and surveillance
