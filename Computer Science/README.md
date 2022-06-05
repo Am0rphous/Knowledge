@@ -21,6 +21,7 @@
 - [Linux/SSHDoor.A Backdoored SSH daemon that steals passwords](https://www.welivesecurity.com/2013/01/24/linux-sshdoor-a-backdoored-ssh-daemon-that-steals-passwords/)
 - [Pentest Reports by 7asecurity](https://7asecurity.com/publications)
 - [Study of Blacklisted Malicious Domains from a Microsoft Windows End-user Perspective: Is It Safe Behind the Wall?](https://ojs.bibsys.no/index.php/NIK/article/download/890/751)
+- [StuxNet Report](https://www.threatminer.org/report.php?q=Stuxnet_Under_the_Microscope.pdf&y=2011#gsc.tab=0&gsc.q=Stuxnet_Under_the_Microscope.pdf&gsc.page=1)
 - [The Darj Side of the Forsshe - A landscape of OpenSSH backdoors](https://www.welivesecurity.com/wp-content/uploads/2018/12/ESET-The_Dark_Side_of_the_ForSSHe.pdf)
 - [Top 10 Web Attacks (2002)](https://www.blackhat.com/presentations/bh-asia-02/bh-asia-02-shah.pdf)
 - [Weak Diffie-Hellman and the Logjam Attack](https://weakdh.org/)
