@@ -25,7 +25,8 @@
     - Accountants and tax preparers
     - Stock traders
     - Construction workers
-- Solar panels tech
+- Solar
+  - [pv-magazine.com](https://www.pv-magazine.com/)
   - new promising tech: perovskite, which can be manufactured on elastic surfaces, uses 1000 times less material than silicon cells, which makes it cheaper to produce solar panels. Effeciency expected in the 30% (theoretical 86% but not practical). Silicon crystalizes around 1410 degrees Celcius, but perovskite can be formed at less than 100 degrees Celcius (<212 Farenheit) which enables usage of smaller equipment. Solar cells can be printed on e.g. lightweight and elastic material such as plastic.
 - VR Immersion
 - Room Temp Superconductivity
