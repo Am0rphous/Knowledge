@@ -1,5 +1,6 @@
 # Idioms
 
+
 - A fool and his money are soon parted. - Oversettelse: En tosk og pengene hans skiller snart lag.
 - A good reputation is hard to earn but easy to lose. - Oversettelse: Et godt rykte er lettere å miste enn å få.
 - Absence makes the heart grow fonder. - Oversettelse: Fravær gjør kjærligheten sterkere.
@@ -15,6 +16,7 @@
 - The sun does not shine on both sides of the hedge at once. - Oversettelse: Solen skinner ikke samtidig på begge sider av hekken.
 - There are none so deaf as those who do not want to hear. - Oversettelse: Ingen er så døv som den som ikke vil høre.
 - There’s no time like the present. - Oversettelse: Ingen tid er bedre enn nå.
+- You can't build a long term future on short term thinking
 - You can’t make an omelet without breaking some eggs. - Oversettelse: Man kan ikke lage omelett uten å knuse noen egg.
 
 ## Norwegians
