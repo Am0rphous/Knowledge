@@ -10,6 +10,7 @@
 - Easy come, easy go. - Det som kommer lett, forsvinner også lett. / Etter den søte kløe kommer det sure svie.
 - If you want something done right, you have to do it yourself. - Oversettelse: Hvis du vil at noe skal gjøres riktig, må du gjøre det selv.
 - Kindness is like a seed that when cultivated can grow and grow and grow. - Oversettelse: Godhet er som såkorn; det vokser først når det blir sådd.
+- More is lost by indecision than wrong decision. Indecision is the thief of opportunity.
 - Necessity is the mother of invention. - Nødvendighet er oppfinnelsenes mor.
 - One man’s trash is another man’s treasure. - Oversettelse: En manns søppel er en annen manns skatt.
 - The squeaky wheel gets the grease. - Det er det hjulet som knirker, som blir smurt.
