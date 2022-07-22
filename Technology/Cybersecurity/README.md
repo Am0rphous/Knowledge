@@ -43,3 +43,6 @@
 
 ## Open Source
 - [Linux and open-source jobs are hotter than ever](https://www.zdnet.com/article/linux-and-open-source-jobs-are-hotter-than-ever/#ftag=MSF97b2187)
+
+## Ransomware
+- [Highlights from the 2021 Unit 42 Ransomware Threat Report](https://unit42.paloaltonetworks.com/ransomware-threat-report-highlights/)
