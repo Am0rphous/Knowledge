@@ -1,4 +1,4 @@
-# School stuff
+# Academic & Education
 
 - [thesis-NTNU](https://github.com/COPCSE-NTNU/thesis-NTNU) - An NTNU thesis LaTeX document class for bachelor, master, and PhD theses 
 
