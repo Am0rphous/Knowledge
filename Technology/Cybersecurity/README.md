@@ -44,5 +44,8 @@
 ## Open Source
 - [Linux and open-source jobs are hotter than ever](https://www.zdnet.com/article/linux-and-open-source-jobs-are-hotter-than-ever/#ftag=MSF97b2187)
 
+## Phishing
+- [Impersonation Becomes Top Phishing Technique](https://www.darkreading.com/attacks-breaches/impersonation-becomes-top-phishing-technique/d/d-id/1341443?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple) - A new report finds IT, healthcare, and manufacturing are the industries most targeted by phishing emails.
+
 ## Ransomware
 - [Highlights from the 2021 Unit 42 Ransomware Threat Report](https://unit42.paloaltonetworks.com/ransomware-threat-report-highlights/)
