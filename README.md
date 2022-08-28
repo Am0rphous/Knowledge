@@ -11,6 +11,7 @@ Diffrent resources i find interesting.
 ## World Development & Trends
 
 ### Tech
+- Decentralizing the Cloud - data market in 2025 will be worth close to 1 [Trillion USD](https://sinovate.medium.com/sinovate-cloud-3-0-a-guaranteed-decentralization-for-an-optimal-data-storage-4c38141d8d1d).
 - Quantum Computing
 - Nano Technology
 - Ultracapacitors
