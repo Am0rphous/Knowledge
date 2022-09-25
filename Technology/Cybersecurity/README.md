@@ -11,6 +11,12 @@
 ### APT
 - [Twisted Panda: Chinese APT espionage operation against Russian’s state-owned defense institutes](https://research.checkpoint.com/2022/twisted-panda-chinese-apt-espionage-operation-against-russians-state-owned-defense-institutes/)
 
+### Documentaries
+- [Drones, hackers and mercenaries - The future of war | DW Documentary](https://www.youtube.com/watch?v=MZ60UDys_ZE&t=1s)
+- [Spies, informants and new enemies - Today’s intelligence agencies | DW Documentary](https://www.youtube.com/watch?v=VX6xMrTJRCo)
+- [United States of Secrets, Part One (full documentary) | FRONTLINE](https://www.youtube.com/watch?v=kaUemcqIQ-k) - FRONTLINE tells the inside story of the U.S. government’s massive and controversial secret surveillance program that began in the wake of September 11 -- and the lengths they went to trying to keep it hidden from the public. (Aired 2014)
+- [United States of Secrets, Part Two (full documentary) | FRONTLINE](https://www.youtube.com/watch?v=rs2iN0oVdt4)
+
 #### Use wisely
 - [An In‑depth Analysis of Linux/Ebury](https://www.welivesecurity.com/2014/02/21/an-in-depth-analysis-of-linuxebury/)
 - [Bypassing-XSS-detection-mechanisms](https://github.com/s0md3v/MyPapers/tree/master/Bypassing-XSS-detection-mechanisms)
