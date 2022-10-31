@@ -1,5 +1,7 @@
 # Academic & Education
 
+- [arXiv](https://arxiv.org/) - arXiv is a free distribution service and an open-access archive for scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics. Materials on this site are not peer-reviewed by arXiv. 
+
 Might come in handy
 - [Eksamensoppgaver i Operativsystemer og Unix](https://www.cs.hioa.no/~haugerud/os/eksamen/allInkFasit.pdf)
 - [EKSAMEN - Innføring i Linux - 13.12.2016](https://web01.usn.no/eksamen/Eksamensoppgaver2016H/I%C3%98I/6100%20Innf%C3%B8ring%20i%20Linux%2013122016.pdf)
