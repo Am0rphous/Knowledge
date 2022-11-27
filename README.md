@@ -5,6 +5,7 @@ _“[One] who works with the door open gets all kinds of interruptions, but [the
 Diffrent resources i find interesting.
 
 - [archive.org](https://archive.org)
+- [Datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [thoughtco.com](https://www.thoughtco.com)
 - [What is the KISS technique and how does it work?](https://medium.com/the-daily-journal/what-is-the-kiss-technique-and-how-does-it-work-8ec215f52481)
 
