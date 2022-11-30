@@ -1,6 +1,6 @@
 # Personal Growth
 
-
+- [themindsjournal.com](https://themindsjournal.com)
 <br>
 <br>
 
