@@ -1,6 +1,7 @@
 # Personal Growth
 
 - [themindsjournal.com](https://themindsjournal.com)
+- [wisdomtrove.com](https://wisdomtrove.com)
 <br>
 <br>
 
@@ -27,9 +28,9 @@
 - You can't build a long term future on short term thinking
 - You can’t make an omelet without breaking some eggs. - Oversettelse: Man kan ikke lage omelett uten å knuse noen egg.
 
-## Norwegian Idioms
-- Man kan ikke nekte å spise bare fordi det er en mulighet for å bli kvalt.
-  ### Norwegian links
-  - [ordtak.myiglo.com](https://ordtak.myiglo.com)
+  ### Norwegian Idioms
+  - Man kan ikke nekte å spise bare fordi det er en mulighet for å bli kvalt.
+    ### Norwegian links
+    - [ordtak.myiglo.com](https://ordtak.myiglo.com)
 
 
