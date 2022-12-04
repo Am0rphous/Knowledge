@@ -7,6 +7,7 @@ Diffrent resources i find interesting.
 - [archive.org](https://archive.org)
 - [Datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [kbnn.no](https://www.kbnn.no)
+  - [Konjunkturbarometer for Nord-Norge 2022](https://www.kbnn.no/files/kbnn_konjunkturbarometer_2022.pdf)
 - [thoughtco.com](https://www.thoughtco.com)
 - [What is the KISS technique and how does it work?](https://medium.com/the-daily-journal/what-is-the-kiss-technique-and-how-does-it-work-8ec215f52481)
 
