@@ -20,6 +20,7 @@
 - More is lost by indecision than wrong decision. Indecision is the thief of opportunity.
 - Necessity is the mother of invention. - Nødvendighet er oppfinnelsenes mor.
 - One man’s trash is another man’s treasure. - Oversettelse: En manns søppel er en annen manns skatt.
+- People who are brutally honest generally enjoy the brutality more than the honesty. Richard Needham
 - Remember that everyone puts their pants on the same way in the morning
 - The squeaky wheel gets the grease. - Det er det hjulet som knirker, som blir smurt.
 - The sun does not shine on both sides of the hedge at once. - Oversettelse: Solen skinner ikke samtidig på begge sider av hekken.
