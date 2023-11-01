@@ -52,5 +52,7 @@ Diffrent resources i find interesting.
 - Økende inflasjon per (15.05.2022)
   - [EU venter inflasjon på 6,8 prosent i 2022 – nedjusterer anslag for økonomisk vekst](https://e24.no/naeringsliv/i/y4BEEg/eu-venter-inflasjon-paa-68-prosent-i-2022-nedjusterer-anslag-for-oekonomisk-vekst)
   - [Høyeste inflasjon på flere tiår i Frankrike og Italia](https://e24.no/internasjonal-oekonomi/i/KzAy8X/hoeyeste-inflasjon-paa-flere-tiaar-i-frankrike-og-italia)
-  - 
+- Grønn omstilling med blått og grønt hydrogen. Hydrogen skal dekke det norske behovet frem til 2030.
+  - Yara har produsert mineralgjødsel siden 1929. De bruker naturgass men skal gå over til hydrogen. Benytter elektrolyse som metode. Vil produsere grønn hydrogen som omdannes til ammoniakk til bruk i mineralgjødsel. Reduserer CO2 med ca 800 000 tonn i året.
+  - EU's Hydrogenbank?
 
