@@ -36,6 +36,7 @@
 
  #### Censorship and surveillance
  - [Blocking-resistant communication through domain fronting](https://www.bamsoftware.com/papers/fronting/)
+ - [Selected Research Papers in Internet Censorship](https://censorbib.nymity.ch/) - The Internet censorship bibliography.
  - [On the Importance of Encrypted-SNI (ESNI) to Censorship Circumvention](https://www.usenix.org/system/files/foci19-paper_chai_update.pdf)
  - [Exposing and Circumventing China's Censorship of ESNI](https://geneva.cs.umd.edu/posts/china-censors-esni/esni/)
  - 13.02.21 - [Venice is watching tourists' every move](https://edition.cnn.com/travel/article/venice-control-room-tourism/index.html)
