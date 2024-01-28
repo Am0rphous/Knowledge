@@ -14,6 +14,7 @@
 - Birds of a feather flock together. - Like barn leker best.
 - Good decision come from experience. Experience comes from making bad decisions.
 - Easy come, easy go. - Det som kommer lett, forsvinner også lett. / Etter den søte kløe kommer det sure svie.
+- I'd rather be criticized for my silence than criticized for opening up about my weakness - unknown
 - If knowledge is power, then curiosity is the muscle.
 - If you want something done right, you have to do it yourself. - Oversettelse: Hvis du vil at noe skal gjøres riktig, må du gjøre det selv.
 - Kindness is like a seed that when cultivated can grow and grow and grow. - Oversettelse: Godhet er som såkorn; det vokser først når det blir sådd.
