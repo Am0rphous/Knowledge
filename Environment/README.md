@@ -8,3 +8,6 @@
 
 ### blogs
 - [Klimakriseposten 14](https://sorby.xyz/post/klimakriseposten-14/)
+
+### 2024
+- [European Electricity Review 2024](https://ember-climate.org/insights/research/european-electricity-review-2024/)
