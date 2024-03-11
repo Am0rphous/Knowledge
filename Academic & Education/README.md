@@ -1,6 +1,7 @@
 # Academic & Education
 
 - [arXiv](https://arxiv.org/) - arXiv is a free distribution service and an open-access archive for scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics. Materials on this site are not peer-reviewed by arXiv. 
+- [https://www.wikimedia.org/](https://www.wikimedia.org/) - Wikimedia is a global movement whose mission is to bring free educational content to the world.
 
 Might come in handy
 - [Eksamensoppgaver i Operativsystemer og Unix](https://www.cs.hioa.no/~haugerud/os/eksamen/allInkFasit.pdf)
