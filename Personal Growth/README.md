@@ -10,6 +10,7 @@
 - A good reputation is hard to earn but easy to lose. - Oversettelse: Et godt rykte er lettere å miste enn å få.
 - Absence makes the heart grow fonder. - Oversettelse: Fravær gjør kjærligheten sterkere.
 - All good things must come to an end. - Oversettelse: Alle gode ting må etterhvert ta slutt.
+- An idiot admires complexity while a genious admires simplicity
 - An open enemy is better than a false friend. - Bedre med åpent fiendskap enn falskt vennskap.
 - Birds of a feather flock together. - Like barn leker best.
 - Good decision come from experience. Experience comes from making bad decisions.
