@@ -26,6 +26,7 @@
 - Remember that everyone puts their pants on the same way in the morning
 - The squeaky wheel gets the grease. - Det er det hjulet som knirker, som blir smurt.
 - The sun does not shine on both sides of the hedge at once. - Oversettelse: Solen skinner ikke samtidig på begge sider av hekken.
+- The true soldier fights not because he hates what is in front of him, but because he loves what is behind him. - G.K. Chesterton 
 - There are none so deaf as those who do not want to hear. - Oversettelse: Ingen er så døv som den som ikke vil høre.
 - There’s no time like the present. - Oversettelse: Ingen tid er bedre enn nå.
 - You can't build a long term future on short term thinking
