@@ -10,4 +10,6 @@
 - [Klimakriseposten 14](https://sorby.xyz/post/klimakriseposten-14/)
 
 ### 2024
+- June - [Ny rapport: 90 prosent av oppvarmingen i 2023 var menneskeskapt](https://www.nrk.no/klima/ny-rapport_-90-prosent-av-oppvarmingen-i-2023-var-menneskeskapt-1.16910650) - Naturlige årsaker sto for under 10 prosent av den globale oppvarmingen i fjor, ifølge ny forskning. Samtidig går oppvarmingen av planeten stadig raskere.
+  - [Indicators of Global Climate Change 2023: annual update of key indicators of the state of the climate system and human influence](https://essd.copernicus.org/articles/16/2625/2024/)
 - [European Electricity Review 2024](https://ember-climate.org/insights/research/european-electricity-review-2024/)
