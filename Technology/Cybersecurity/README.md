@@ -56,3 +56,6 @@
 
 ## Ransomware
 - [Highlights from the 2021 Unit 42 Ransomware Threat Report](https://unit42.paloaltonetworks.com/ransomware-threat-report-highlights/)
+
+## Recall (A nightmare)
+- [Stealing everything you’ve ever typed or viewed on your own Windows PC is now possible with two lines of code — inside the Copilot+ Recall disaster](https://doublepulsar.com/recall-stealing-everything-youve-ever-typed-or-viewed-on-your-own-windows-pc-is-now-possible-da3e12e9465e)
