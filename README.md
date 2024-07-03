@@ -1,6 +1,4 @@
-# Good Knowledge
-
-_“[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.”_ — Richard Hamming
+<p align="center"> <i>_“[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.”_ — Richard Hamming </i>
 
 Diffrent resources i find interesting.
 
