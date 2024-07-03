@@ -1,7 +1,7 @@
 <p align="center"> <i>“[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming </i>
 
 <br><br>
-Diffrent resources i find interesting.
+Some resources i find interesting.
 
 - [archive.org](https://archive.org)
 - [Datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
