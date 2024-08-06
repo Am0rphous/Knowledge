@@ -39,3 +39,8 @@
     - [ordtak.myiglo.com](https://ordtak.myiglo.com)
 
 
+## Psychology
+- Confirmation bias: The tendency to seek, interpret, and remember information in a way that confirms one's own expectations and assumptions, while ignoring or rejecting information that contradicts them.
+- Halo effect: The tendency to judge a person, group, or thing based on a single positive trait or achievement, and thus overestimate their overall value.
+- Status quo bias: The tendency to prefer what is already known and established, and to avoid change and uncertainty.
+- Sunk cost fallacy: The tendency to continue investing in a project or decision because of the time, money, or resources already invested, even if it is no longer economically profitable or correct
