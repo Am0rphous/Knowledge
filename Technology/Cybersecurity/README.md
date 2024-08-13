@@ -48,6 +48,9 @@
  - [Software Updates Strategies: a Quantitative Evaluation against Advanced Persistent Threats](https://arxiv.org/pdf/2205.07759.pdf)
  - [Using Sysmon to EnrichSecurity Onion’s Host-Level Capabilities](https://defensivedepth.files.wordpress.com/2015/03/using-sysmon-to-enrich-security-onions-host-level-capabilities6.pdf)
 
+## Encryption
+- [Move away from SSL based VPNs](https://www.bleepingcomputer.com/news/security/norway-recommends-replacing-ssl-vpn-to-prevent-breaches/)
+
 ## Open Source
 - [Linux and open-source jobs are hotter than ever](https://www.zdnet.com/article/linux-and-open-source-jobs-are-hotter-than-ever/#ftag=MSF97b2187)
 
