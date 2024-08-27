@@ -1,5 +1,5 @@
 # Politics and Freedom
-_"They who can give up essential liberty to obtain a little temporary safety, deserve neither liberty nor safety. Benjamin Franklin, 1775"_
+_"They who can give up essential liberty to obtain a little temporary safety, deserve neither liberty nor safety. Benjamin Franklin, 1775"_ <br>
 _"He that would make his own liberty secure, must guard even his enemy from oppression; for if he violates this duty, he establishes a precedent that will reach to himself."  James Madison_
 
 - [accessnow.org](https://www.accessnow.org/)
