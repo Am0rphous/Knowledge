@@ -52,6 +52,7 @@
 - [Move away from SSL based VPNs](https://www.bleepingcomputer.com/news/security/norway-recommends-replacing-ssl-vpn-to-prevent-breaches/)
 
 ## Open Source
+- August 2024 - [Bide-Harris is commited towards Open-Source Software](https://www.whitehouse.gov/oncd/briefing-room/2024/08/09/fact-sheet-biden-harris-administration-releases-end-of-year-report-on-open-source-software-security-initiative-2/)
 - [Linux and open-source jobs are hotter than ever](https://www.zdnet.com/article/linux-and-open-source-jobs-are-hotter-than-ever/#ftag=MSF97b2187)
 
 ## Phishing
