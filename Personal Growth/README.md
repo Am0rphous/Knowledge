@@ -5,6 +5,8 @@
 <br>
 <br>
 
+_"You are not a drop in the ocean. You are the entire ocean in a drop."_
+
 ## Idioms
 - A fool and his money are soon parted. - Oversettelse: En tosk og pengene hans skiller snart lag.
 - A good reputation is hard to earn but easy to lose. - Oversettelse: Et godt rykte er lettere å miste enn å få.
