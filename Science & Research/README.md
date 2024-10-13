@@ -1,5 +1,7 @@
 # Science & Research
 
+- Occam's razor (principle of parsimony or the law of parsimony) - "problem-solving principle that recommends searching for explanations constructed with the smallest possible set of elements."
+
 - [IFE, Institute for Energy Technology - researches for a better future](https://ife.no/en/)
 - [ NTNU thesis LaTeX document class for bachelor, master, and PhD theses ](https://github.com/COPCSE-NTNU/thesis-NTNU)
 
