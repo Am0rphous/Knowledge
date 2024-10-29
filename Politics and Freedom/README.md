@@ -3,6 +3,7 @@ _"They who can give up essential liberty to obtain a little temporary safety, de
 _"He that would make his own liberty secure, must guard even his enemy from oppression; for if he violates this duty, he establishes a precedent that will reach to himself."  James Madison_
 
 - [accessnow.org](https://www.accessnow.org/)
+- [Free Human Rights E‑Course](https://www.humanrights.com/course/)
 - [The Political Compass ](https://politicalcompass.org)
 
 ### Ukraine
