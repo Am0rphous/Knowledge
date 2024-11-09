@@ -3,13 +3,13 @@
 <br>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=_nVq7f26-Uo" title="123">The Five Laws of Cybersecurity</a>
+  <a href="https://www.youtube.com/watch?v=_nVq7f26-Uo" title="The Five Laws of Cybersecurity"></a>
 </p>
-<p align="center">" Law 1: if there is a vulnerability, it will be exploited. "
-<p align="center">"Law 2: Everything is vulnerable in some way"
-<p align="center">"Law 3 :Humans can trust when they shouldn't."
-<p align="center">"Law 4 : with innovation comes opportunity for exploitation. "
-<p align="center">"Law 5: when in doubt, see law 1 "
+<p align="center">"Law 1: if there is a vulnerability, it will be exploited. 
+<p align="center">Law 2: Everything is vulnerable in some way.
+<p align="center">Law 3 :Humans can trust when they shouldn't.
+<p align="center">Law 4 : with innovation comes opportunity for exploitation.
+<p align="center">Law 5: when in doubt, see law 1.
 <br>
 
 - [BitLocker Guidance by NSA](https://github.com/nsacyber/BitLocker-Guidance) - Configuration guidance for implementing BitLocker.
