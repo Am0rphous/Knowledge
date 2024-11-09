@@ -11,7 +11,7 @@
 <p align="center">Law 4 : with innovation comes opportunity for exploitation.
 <p align="center">Law 5: when in doubt, see law 1.
 
-<br>
+<br><br>
 
 - [BitLocker Guidance by NSA](https://github.com/nsacyber/BitLocker-Guidance) - Configuration guidance for implementing BitLocker.
 - [collection-document by tom0li](https://github.com/tom0li/collection-document) - Collection of quality safety articles. Awesome articles. 
