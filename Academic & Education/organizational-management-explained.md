@@ -1,6 +1,6 @@
 # organizational-management-explained/
 
-Table of contents 
+- [Table of contents](https://business-explained.com/shop/organizational-management-explained/)
 
 
 
