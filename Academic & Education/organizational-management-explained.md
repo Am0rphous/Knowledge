@@ -4,7 +4,7 @@
 
 
 
-
+````
     Organizational Foundations
         Centralized vs. Decentralized Organizational Structures
             Hierarchical Structure
@@ -240,3 +240,4 @@
         The Role of Creativity in Future Organizations
         The Future of Employee Benefits
         Companies Pioneering in Sustainability
+````
