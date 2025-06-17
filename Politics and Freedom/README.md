@@ -16,7 +16,7 @@ _"He that would make his own liberty secure, must guard even his enemy from oppr
 
 ## Norwegian political party descriptions
 ### Negative values
-|----|----|
+|--------|--------|
 |Parti |Negativ beskrivelse|
 |Kristelig Folkeparti	|Bakstreversk, moraliserende, naiv, konservativ, utdatert|
 |Høyre	|Elitevennlig, pengefikserte, ufølsomme, privilegerte, urettferdige|
