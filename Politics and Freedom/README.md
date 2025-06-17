@@ -14,3 +14,18 @@ _"He that would make his own liberty secure, must guard even his enemy from oppr
 - Documentary [Winter on Fire: Ukraine's Fight for Freedom](https://www.youtube.com/watch?v=yzNxLzFfR5w)
   - [On Netflix](https://www.netflix.com/title/80031666)
 
+## Norwegian political party descriptions
+### Negative values
+|----|----|
+|Parti |Negativ beskrivelse|
+|Kristelig Folkeparti	|Bakstreversk, moraliserende, naiv, konservativ, utdatert|
+|Høyre	|Elitevennlig, pengefikserte, ufølsomme, privilegerte, urettferdige|
+|Fremskrittspartiet	|Fremmedfiendtlige, populistiske, ufølsomme, provoserende, polariserende|
+|Venstre	|Ubesluttsomme, naive, teoretiske, urealistiske, overfladiske|
+|Rødt	|Kaotiske, urealistiske, radikale, konfliktelskende, umulige|
+|Arbeiderpartiet	|Byråkratiske, langsomme, uinspirerte, maktsyke, inkonsekvente|
+|Sosialistisk Venstreparti	|Drømmere, naive, urealistiske, konfliktelskende, umulige|
+|Senterpartiet	|Bakstreversk, naiv, utdatert, smålig, egoistisk|
+|Miljøpartiet De Grønne	|Naive, urealistiske, idealistiske, ufleksible, umulige|
+
+
