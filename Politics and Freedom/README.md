@@ -28,4 +28,14 @@ _"He that would make his own liberty secure, must guard even his enemy from oppr
 |Senterpartiet	|Bakstreversk, naiv, utdatert, smålig, egoistisk|
 |Miljøpartiet De Grønne	|Naive, urealistiske, idealistiske, ufleksible, umulige|
 
-
+|Parti |Positiv beskrivelse|
+|--------|--------|
+|Kristelig Folkeparti	|Medmenneskelig, omsorgsfull, tradisjonsbevisst, familievennlig, samfunnsengasjert|
+|Høyre	|Fremtidsrettet, innovativ, ansvarsbevisst, effektiv, økonomisk kompetent|
+|Fremskrittspartiet	|Folkelig, direkte, ærlig, patriotisk, trygghetsskapende|
+|Venstre	|Progressiv, åpen, kunnskapsbasert, fremtidsrettet, likestillingsorientert|
+|Rødt	|Solidarisk, rettferdig, idealistisk, engasjert, samfunnsendrende|
+|Arbeiderpartiet	|Samlende, praktisk, omsorgsfull, rettferdig, stabil|
+|Sosialistisk Venstreparti	|Visjonær, miljøbevisst, solidarisk, likestillingsorientert, fremtidsrettet|
+|Senterpartiet	|Jordnær, autentisk, distriktsvennlig, naturbevarende, samfunnsbyggende|
+|Miljøpartiet De Grønne	|Bærekraftig, innovativ, fremtidsrettet, dyrevennlig, miljøbevisst|
