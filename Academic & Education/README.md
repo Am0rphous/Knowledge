@@ -3,7 +3,7 @@
 - [arXiv](https://arxiv.org/) - arXiv is a free distribution service and an open-access archive for scholarly articles in the fields of physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics. Materials on this site are not peer-reviewed by arXiv. 
 - [Free courses](https://www.edx.org)
 - [https://www.wikimedia.org/](https://www.wikimedia.org/) - Wikimedia is a global movement whose mission is to bring free educational content to the world.
-
+- [Most Educated States in US (2018)](https://www.thrillist.com/news/nation/most-educated-states-in-us-mapped)
 Might come in handy
 - [Eksamensoppgaver i Operativsystemer og Unix](https://www.cs.hioa.no/~haugerud/os/eksamen/allInkFasit.pdf)
 - [EKSAMEN - Innføring i Linux - 13.12.2016](https://web01.usn.no/eksamen/Eksamensoppgaver2016H/I%C3%98I/6100%20Innf%C3%B8ring%20i%20Linux%2013122016.pdf)
