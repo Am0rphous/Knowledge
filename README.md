@@ -13,6 +13,7 @@ Some resources i find interesting.
 ## World Development & Trends
 - Instability and corruption (trump) in US politics have led some to call for Europe to pursue digital sovereignty and reduce reliance on US technology. Who needs enemies when you have friends like the US?
   - Movement for digital sovereignty and FOSS
+  - https://european-alternatives.eu/
   - https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/16213-European-Open-Digital-Ecosystems_en
   - [The USA Lock-In: When Tech Dependency Becomes Geopolitical Vulnerability](https://siryu.me/posts/usa-lock-in/)
 
