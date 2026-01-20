@@ -11,6 +11,9 @@ Some resources i find interesting.
 - [What is the KISS technique and how does it work?](https://medium.com/the-daily-journal/what-is-the-kiss-technique-and-how-does-it-work-8ec215f52481)
 
 ## World Development & Trends
+- Instability and corruption (trump) in US politics have led some to call for Europe to pursue digital sovereignty and reduce reliance on US technology. Who needs enemies when you have friends like the US?
+  - Movement for digital sovereignty and FOSS
+  - https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/16213-European-Open-Digital-Ecosystems_en
 
 ### Tech
 - Decentralizing the Cloud - data market in 2025 will be worth close to 1 [Trillion USD](https://sinovate.medium.com/sinovate-cloud-3-0-a-guaranteed-decentralization-for-an-optimal-data-storage-4c38141d8d1d).
