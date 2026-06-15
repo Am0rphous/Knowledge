@@ -32,6 +32,7 @@ _"You are not a drop in the ocean. You are the entire ocean in a drop."_
 - The true soldier fights not because he hates what is in front of him, but because he loves what is behind him. - G.K. Chesterton 
 - There are none so deaf as those who do not want to hear. - Oversettelse: Ingen er så døv som den som ikke vil høre.
 - There’s no time like the present. - Oversettelse: Ingen tid er bedre enn nå.
+- When everything is important, nothing is important.
 - You can't build a long term future on short term thinking
 - You can’t make an omelet without breaking some eggs. - Oversettelse: Man kan ikke lage omelett uten å knuse noen egg.
 
