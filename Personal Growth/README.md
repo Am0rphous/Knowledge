@@ -43,6 +43,8 @@ _"You are not a drop in the ocean. You are the entire ocean in a drop."_
 
 
 ## Psychology
+- https://buster.medium.com/cognitive-bias-cheat-sheet-55a472476b18
+- https://en.wikipedia.org/wiki/List_of_cognitive_biases
 - Confirmation bias: The tendency to seek, interpret, and remember information in a way that confirms one's own expectations and assumptions, while ignoring or rejecting information that contradicts them.
 - Halo effect: The tendency to judge a person, group, or thing based on a single positive trait or achievement, and thus overestimate their overall value.
 - Status quo bias: The tendency to prefer what is already known and established, and to avoid change and uncertainty.
